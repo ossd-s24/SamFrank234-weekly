@@ -1,2 +1,10 @@
-This is a simple template for the class blog. 
+# Sam Frank's Weekly Blog
+### OSSD Spring '24
+
+
+## About:
+CS @ CAS  
+Class of '25
+Interests: Running 🏃‍♂️, Music 🎺
+
 
