@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 7  | [GitHub Issue](https://github.com/joannakl/ossd/issues/86)    | course website    |   I made a suggestion to improve to the git intro activity.    |
 |     |     |     |      |
 |     |     |     |      |
