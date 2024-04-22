@@ -26,3 +26,4 @@ Replace the first row with your own contribution.
 | Feb 15 | [Version permalink](https://en.wikipedia.org/w/index.php?title=Allie_Wilson&oldid=1207817146) | Wikipedia | I changed "association football" to "soccer" for Americans |
 | Apr 8  | [Issue Comment](https://github.com/bitwarden/clients/issues/8640#issuecomment-2044431532) | Bitwarden | I commented on an issue, noting that I reproduced it and conributed to the conversation |
 | Apr 22 | [Diff](https://en.wikipedia.org/w/index.php?title=Hall_High_School_Connecticut&diff=prev&oldid=1220246695) | Wikipedia | Fixed inaccuracy, added more information, added a citation |
+| Apr 22 | [PR](https://github.com/joannakl/ossd/pull/120) | course website | replaced a broken YouTube link |
