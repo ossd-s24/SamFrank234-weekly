@@ -27,3 +27,9 @@ Replace the first row with your own contribution.
 | Apr 8  | [Issue Comment](https://github.com/bitwarden/clients/issues/8640#issuecomment-2044431532) | Bitwarden | I commented on an issue, noting that I reproduced it and conributed to the conversation |
 | Apr 22 | [Diff](https://en.wikipedia.org/w/index.php?title=Hall_High_School_Connecticut&diff=prev&oldid=1220246695) | Wikipedia | Fixed inaccuracy, added more information, added a citation |
 | Apr 22 | [PR](https://github.com/joannakl/ossd/pull/120) | course website | replaced a broken YouTube link |
+| Apr 29 | [changeset](https://www.openstreetmap.org/changeset/150668799#map=17/40.72546/-73.98000) | OpenStreetMap | added commemorative street name |
+
+
+
+
+
